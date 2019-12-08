@@ -19,6 +19,10 @@ body.food {
     background-image: url(../img/foodbarback.jpg);
 }
 
+body.bank {
+    background-image: url(../img/baknback.jpg);
+}
+
 body::after {
     content: '';
     display: block;
